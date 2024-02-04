@@ -23,6 +23,12 @@ npm i -g @nestjs/cli
 docker-compose up -d
 ```
 
+5. Endpoint para insertar pokémons con el seed
+
+```
+http://localhost:3000/api/v2/seed
+```
+
 ## Stack Usado
 
 - MongoDB
